@@ -3,10 +3,10 @@ I'm completing the Free course camp Responsive Web Design Certification. I'll be
 
 This project repository will have each of the 5 courses required to get the first ceritifaction Project. This includes:
 
-Learn HTML by Building a Cat Photo App
-Learn Basic CSS by Building a Cafe Menu
-Learn CSS Colors by Building a Set of Colored Markers
-Learn HTML Forms by Building a Registration Form
+*Learn HTML by Building a Cat Photo App
+*Learn Basic CSS by Building a Cafe Menu
+*Learn CSS Colors by Building a Set of Colored Markers
+*Learn HTML Forms by Building a Registration Form
 
 The final project is the certification project which is the survey form.
 This is one of the required projects to earn my certification.

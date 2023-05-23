@@ -1,16 +1,16 @@
-# FCC-Responsive-Web-Design---Project1
-I'm completing the Free course camp Responsive Web Design Certification. I'll be aiming to learn how to use webpages as well as learning the languages HTML and CSS.
+CC-Responsive-Web-Design---Project1
+Welcome to the repository for my FreeCodeCamp Responsive Web Design Certification projects! Here, you'll find the projects I completed as part of the certification program.
 
-This project repository will have each of the 5 courses required to get the first ceritifaction Project. This includes:
+Project Overview
+The certification program consists of five courses that cover HTML and CSS fundamentals. Each course focuses on building a specific web application. The projects included in this repository are:
 
--Learn HTML by Building a Cat Photo App
--Learn Basic CSS by Building a Cafe Menu
--Learn CSS Colors by Building a Set of Colored Markers
--Learn HTML Forms by Building a Registration Form
+Learn HTML by Building a Cat Photo App
+Learn Basic CSS by Building a Cafe Menu
+Learn CSS Colors by Building a Set of Colored Markers
+Learn HTML Forms by Building a Registration Form
+Survey Form (Certification Project)
+Certification Project: Survey Form
+The final project for the certification is the Survey Form. The objective of this project is to design and implement a survey form to collect data from users. I will be using my HTML and CSS skills to create a user-friendly and visually appealing survey form.
 
-The final project is the certification project which is the survey form.
-This is one of the required projects to earn my certification.
-
-For this project, I will build a survey form to collect data from  users.
-
-I will post my progress here so my projects can be seen.
+Project Progress
+Throughout my learning journey, I will be posting my project progress in this repository. You can follow along and see the evolution of my projects as I complete each course and work on the certification project.

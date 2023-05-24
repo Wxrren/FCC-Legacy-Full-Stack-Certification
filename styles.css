@@ -1,0 +1,93 @@
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  background-image: url(https://img.freepik.com/free-vector/stylish-glowing-digital-red-lines-banner_1017-23964.jpg?w=2000&t=st=1684954756~exp=1684955356~hmac=e66baa527d7e8079768dc87a6d9f4852c37bdde13fe47f4879654a6be10e3a86);
+  background-size: cover;
+  color: #f5f6f7;
+   text-shadow: 
+    -2px -1px 0 #000,
+     2px -1px 0 #000,
+    -2px  1px 0 #000,
+     2px  1px 0 #000;
+  font-family: Tahoma;
+  font-size: 16px;
+}
+
+/* Heading and thank you message*/
+h1, p {
+  margin: em auto;
+  text-align: center;
+}
+
+/* Text for each part that requires information*/
+.requested-info {
+  text-align: center;
+  font-weight: bold;
+}
+
+form {
+  width: 60vw;
+  max-width: 800px;
+  min-width: 500px;
+  margin: 0 auto;
+  padding-bottom: 2em;
+}
+
+div {
+  border: none;
+  padding: 2rem 0;
+  border-bottom: 3px solid #3b3b4f;
+}
+
+div:last-of-type {
+  border-bottom: none;
+}
+
+label {
+  display: block;
+  margin: 0.5rem 0;
+}
+
+input,
+textarea,
+select {
+  margin: 10px 0 0 0;
+  width: 100%;
+  min-height: 2em;
+  background: linear-gradient(#FF7377, #66FFE5);
+}
+
+/* Select Font*/
+select {
+  font-weight: bold;
+}
+
+input, textarea {
+
+  border: 1px solid #0a0a23;
+  color: Black;
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+/* inline class*/
+.inline {
+  width: unset;
+  margin: 0 0.5em 0 0;
+  vertical-align: middle;
+}
+
+/* Submit button */
+input[type="submit"] {
+  display: block;
+  width: 60%;
+  margin: 1em auto;
+  height: 2em;
+  font-size: 1.1rem;
+  background-color: #3b3b4f;
+  border-color: white;
+  min-width: 300px;
+}
+
+

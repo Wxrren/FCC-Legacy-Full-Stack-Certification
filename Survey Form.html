@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Survey Form</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+<body>
+   <h1 id="title">Survey Form</h1>
+    <p id="description">Thank you for helping us get to know you!</p>
+     <form id="survey-form" method="post" action='https://register-demo.freecodecamp.org'>
+     <div>
+       <label id="name-label" class="requested-info" for="name">Enter Your First Name: 
+		<input id="name" name="name" type="text" required placeholder="Enter your name" /></label>
+		<label id="email-label" class="requested-info" for="email">Enter Your Email Address: 
+		<input id="email" name="email" type="email" required placeholder="Enter your email address" required /></label>
+		<label id="number-label" class="requested-info" for="name">Enter Your Age: 
+		<input id="number" name="age" type="number" min="13" max="120" required placeholder="Enter your age"  required /></label>
+		</div>
+    <div>
+       <label for="dropdown">How do you like to play multiplayer games?
+        <select id="dropdown" name="dropdown">
+            <option value="">(select one)</option>
+            <option value="1">Competitive</option>
+            <option value="2">casual</option>
+          </select>
+        </label>
+	</div>
+  <div>
+    <label for="dropdown">What platform do you play on?</label>
+		<label for="PC">
+		<input id="PC" type="radio" name="Platform" value="pc" class="inline" />PC</label>
+		<label for="Playstation">
+		<input id="Playstation" type="radio" name="Platform" value="Playstation" class="inline" />Playstation</label>
+		<label for="Xbox">
+		<input id="Xbox" type="radio" name="Platform" value="Xbox" class="inline" />Xbox</label>
+	</div>
+  <div>
+    <label> What genres of games do you like?</label>
+		<label for="Games">
+        <input  type="checkbox" value="fps" id="genre"  name="FPS" class="inline" />FPS
+		</label>
+        <label for="Games"> 
+        <input type="checkbox" value="Racing" id="genre"  name="Racing" class="inline" />Racing
+        </label>
+        <label for="Games"> 
+        <input type="checkbox" value="Sports" id="genre"  name="Sports" class="inline" />Sports
+        </label>
+        <label for="Games"> 
+        <input type="checkbox" value="RPG" id="genre"  name="RPG" class="inline" />RPG
+        </label>
+        <label for="Games"> 
+        <input type="checkbox" value="MMORPG" id="genre"  name="MMORPG" class="inline" />MMORPG
+        </label>
+        <label for="Games"> 
+        <input type="checkbox" value="MOBA" id="genre"  name="MOBA" class="inline" />MOBA
+        </label>
+        <label for="Games"> 
+        <input type="checkbox" value="Action" id="genre"  name="Action" class="inline" />Action
+        </label>
+        <label for="Games"> 
+        <input type="checkbox" value="Fighting" id="genre"  name="Fighting" class="inline" />Fighting
+       </label>
+	</div>
+  <div>
+    <label> What is your favourite game and why? (optional)</label>
+        <label for="Favourite Game">
+          <textarea id="Favourite Game" name="Favourite Game" rows="3" cols="30" placeholder="I like CSGO because..."></textarea>
+        </label>
+	</div>
+  <div>
+    <input type="submit" value="submit" id="submit">
+  </div>
+     </form>
+   </body>
+</html>

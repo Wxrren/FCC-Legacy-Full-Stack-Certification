@@ -7,10 +7,10 @@ Welcome to the repository for my FreeCodeCamp Responsive Web Design Certificatio
 The certification program consists of five courses that cover HTML and CSS fundamentals. Each course focuses on building a specific web application. The projects included in this repository are:
 
 1. Learn HTML by Building a [Cat Photo App](https://github.com/Wxrren/FCC-Responsive-Web-Design---Project1/blob/main/Cat%20Photo%20App.html) 
-2. Learn Basic CSS by Building a [Cafe Menu](https://github.com/Wxrren/FCC-Responsive-Web-Design---Project1/blob/main/cafe%20menu.html)([CSS here](https://github.com/Wxrren/FCC-Responsive-Web-Design---Project1/blob/main/Cafe-menu-style.css))
-3. Learn CSS Colors by Building a Set of Colored Markers
-4. Learn HTML Forms by Building a Registration Form
-5. Survey Form (Certification Project)
+2. Learn Basic CSS by Building a [Cafe Menu](https://github.com/Wxrren/FCC-Responsive-Web-Design---Project1/blob/main/cafe%20menu.html) ([CSS attached here](https://github.com/Wxrren/FCC-Responsive-Web-Design---Project1/blob/main/Cafe-menu-style.css))
+3. Learn CSS Colors by Building a [Set of Colored Markers](https://github.com/Wxrren/FCC-Responsive-Web-Design---Project1/blob/main/Colour%20Mark.html) ([CSS attached here](https://github.com/Wxrren/FCC-Responsive-Web-Design---Project1/blob/main/colourmark.css))
+4. Learn HTML Forms by Building a [Registration Form](https://github.com/Wxrren/FCC-Responsive-Web-Design---Project1/blob/main/test.html) ([CSS attached here](https://github.com/Wxrren/FCC-Responsive-Web-Design---Project1/blob/main/style.css))
+5. Survey Form [(Certification Project)](https://github.com/Wxrren/FCC-Responsive-Web-Design---Project1/blob/main/Survey%20Form.html)  ([CSS attached here](https://github.com/Wxrren/FCC-Responsive-Web-Design---Project1/blob/main/styles.css))
 
 ## Certification Project: Survey Form
 

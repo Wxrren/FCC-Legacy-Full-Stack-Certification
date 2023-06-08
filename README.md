@@ -10,7 +10,7 @@ The certification program consists of five courses that cover HTML and CSS funda
 2. Learn Basic CSS by Building a [Cafe Menu](https://github.com/Wxrren/FCC-Responsive-Web-Design---Project1/blob/main/cafe%20menu.html) ([CSS attached here](https://github.com/Wxrren/FCC-Responsive-Web-Design---Project1/blob/main/Cafe-menu-style.css))
 3. Learn CSS Colors by Building a [Set of Colored Markers](https://github.com/Wxrren/FCC-Responsive-Web-Design---Project1/blob/main/Colour%20Mark.html) ([CSS attached here](https://github.com/Wxrren/FCC-Responsive-Web-Design---Project1/blob/main/colourmark.css))
 4. Learn HTML Forms by Building a [Registration Form](https://github.com/Wxrren/FCC-Responsive-Web-Design---Project1/blob/main/test.html) ([CSS attached here](https://github.com/Wxrren/FCC-Responsive-Web-Design---Project1/blob/main/style.css))
-5. Survey Form [(Certification Project)](https://github.com/Wxrren/FCC-Responsive-Web-Design---Project1/blob/main/Survey%20Form.html)  ([CSS attached here](https://github.com/Wxrren/FCC-Responsive-Web-Design---Project1/blob/main/styles.css))
+5. Survey Form -  Core [(Certification Project)](https://github.com/Wxrren/FCC-Responsive-Web-Design---Project1/blob/main/Survey%20Form.html)  ([CSS attached here](https://github.com/Wxrren/FCC-Responsive-Web-Design---Project1/blob/main/styles.css))
 
 ## Certification Project: Survey Form
 

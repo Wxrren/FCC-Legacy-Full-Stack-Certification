@@ -2,6 +2,10 @@
 
 Welcome to the repository for my FreeCodeCamp Responsive Web Design Certification projects! Here, you'll find the projects I completed as part of the certification program.
 
+## Project Progress
+
+Throughout my learning journey, I will be posting my project progress in this repository. You can follow along and see the evolution of my projects as I complete each course and work on the certification project.
+
 ## Project Overview
 
 The certification program consists of five courses that cover HTML and CSS fundamentals. Each course focuses on building a specific web application. The projects included in this repository are:
@@ -16,6 +20,22 @@ The certification program consists of five courses that cover HTML and CSS funda
 
 The final project for the certification is the Survey Form. The objective of this project is to design and implement a survey form to collect data from users. I will be using my HTML and CSS skills to create a user-friendly and visually appealing survey form.
 
-## Project Progress
+# FCC-Responsive-Web-Design---Project2
 
-Throughout my learning journey, I will be posting my project progress in this repository. You can follow along and see the evolution of my projects as I complete each course and work on the certification project.
+## Project Overview
+
+The certification program consists of five courses that cover HTML and CSS fundamentals. Each course focuses on building a specific web application. The projects included in this repository are:
+
+1. Learn the CSS Box Model by Building a Rothko Painting
+2. Learn CSS Flexbox by Building a Photo Gallery
+3. Learn Typography by Building a Nutrition Label
+4. Learn Accessibility by Building a Quiz
+5. Tribute page -  Core Certification Project 2
+
+## Certification Project: Tribute page
+
+The final project for the certification is the Tribute page. The objective of this project is to build a tribute page for a subject of my choosing, fictional or real.
+
+
+
+

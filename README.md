@@ -29,7 +29,7 @@ The final project for the certification is the Survey Form. The objective of thi
 The certification program consists of five courses that cover HTML and CSS fundamentals. Each course focuses on building a specific web application. The projects included in this repository are:
 
 1. Learn the CSS Box Model by Building a [Rothko Painting](https://github.com/Wxrren/FCC-Responsive-Web-Design/blob/main/Project%202/Rothko.html) ([CSS attached here](https://github.com/Wxrren/FCC-Responsive-Web-Design/blob/main/Project%202/Rothko-styles.css))
-2. Learn CSS Flexbox by Building a Photo Gallery
+2. Learn CSS Flexbox by Building a [Photo Gallery](https://github.com/Wxrren/FCC-Responsive-Web-Design/blob/main/Project%202/CAT%20PHOTO%20GALLERY.html) ([CSS attached here](https://github.com/Wxrren/FCC-Responsive-Web-Design/blob/main/Project%202/CatStyles.css))
 3. Learn Typography by Building a Nutrition Label
 4. Learn Accessibility by Building a Quiz
 5. Tribute page -  Core Certification Project 2

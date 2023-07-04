@@ -8,7 +8,7 @@ Throughout my learning journey, I will be posting my project progress in this re
 
 ## Project Overview
 
-The certification program consists of five courses that cover HTML and CSS fundamentals. Each course focuses on building a specific web application. The projects included in this repository are:
+The certification program consists of five courses that cover HTML and CSS fundamentals. Each course has different projects and focuses on building a specific web application. The projects included in this repository are:
 
 1. Learn HTML by Building a [Cat Photo App](https://github.com/Wxrren/FCC-Legacy-Full-Stack-Certification/blob/main/Responsive%20Web%20Design/Project%201/Cat%20Photo%20App.html) 
 2. Learn Basic CSS by Building a [Cafe Menu](https://github.com/Wxrren/FCC-Legacy-Full-Stack-Certification/blob/main/Responsive%20Web%20Design/Project%201/cafe%20menu.html) ([CSS attached here](https://github.com/Wxrren/FCC-Legacy-Full-Stack-Certification/blob/main/Responsive%20Web%20Design/Project%201/Cafe-menu-style.css))

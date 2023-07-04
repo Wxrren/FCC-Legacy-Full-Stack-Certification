@@ -4,7 +4,7 @@ Welcome to the repository for my FreeCodeCamp Legacy Full Stack Certification pr
 
 ## Project Overview
 
-The certification program consists of seven courses that cover a variety of skills such as HTML and CSS fundamentals, Javascript, Back End Development and APIs. Each course focuses on building a specific web application. Each of the 7 core courses has multiple different projects that once all completed provide you with a certification in each course. The projects included in this repository are:
+The certification program consists of six courses that cover a variety of skills such as HTML and CSS fundamentals, Javascript, Back End Development and APIs. Each course focuses on building a specific web application. Each of the 6 core courses has multiple different projects that once all completed provide you with a certification in each course. The projects included in this repository are:
 
 1. [Responsive Web Design](https://github.com/Wxrren/FCC-Legacy-Full-Stack-Certification/tree/main/Responsive%20Web%20Design)
 2. JavaScript Algorithms and Data Structures

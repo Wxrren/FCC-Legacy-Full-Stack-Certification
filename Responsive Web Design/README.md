@@ -30,7 +30,7 @@ The certification program consists of five courses that cover HTML and CSS funda
 
 1. Learn the CSS Box Model by Building a [Rothko Painting](https://github.com/Wxrren/FCC-Legacy-Full-Stack-Certification/blob/main/Responsive%20Web%20Design/Project%202/Rothko.html) ([CSS attached here](https://github.com/Wxrren/FCC-Legacy-Full-Stack-Certification/blob/main/Responsive%20Web%20Design/Project%202/Rothko-styles.css))
 2. Learn CSS Flexbox by Building a [Photo Gallery](https://github.com/Wxrren/FCC-Legacy-Full-Stack-Certification/blob/main/Responsive%20Web%20Design/Project%202/CAT%20PHOTO%20GALLERY.html) ([CSS attached here](https://github.com/Wxrren/FCC-Legacy-Full-Stack-Certification/blob/main/Responsive%20Web%20Design/Project%202/CatStyles.css))
-3. Learn Typography by Building a Nutrition Label
+3. Learn Typography by Building a [Nutrition Label](https://github.com/Wxrren/FCC-Legacy-Full-Stack-Certification/blob/main/Responsive%20Web%20Design/Project%202/Nutrition%20Label.html) ([CSS attached here](https://github.com/Wxrren/FCC-Legacy-Full-Stack-Certification/blob/main/Responsive%20Web%20Design/Project%202/labelstyles.css))
 4. Learn Accessibility by Building a Quiz
 5. Tribute page -  Core Certification Project 2
 

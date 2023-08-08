@@ -1,0 +1,20 @@
+#main {
+  text-align: center;
+  font-size: 25px;
+  font-family: sans-serif;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  Margin: auto;
+}
+
+li:not(:first-of-type) {
+  margin-top: 1.5em;
+}
+
+a:link, a:visited {
+  color: blue;
+  text-decoration: none;
+}

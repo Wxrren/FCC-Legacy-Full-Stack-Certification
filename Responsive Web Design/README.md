@@ -20,7 +20,7 @@ The certification program consists of five courses that cover HTML and CSS funda
 
 The final project for the certification is the Survey Form. The objective of this project is to design and implement a survey form to collect data from users. I will be using my HTML and CSS skills to create a user-friendly and visually appealing survey form. 
 
-
+-
 
 # FCC-Responsive-Web-Design---Project2
 
@@ -38,7 +38,7 @@ The certification program consists of five courses that cover HTML and CSS funda
 
 The final project for the certification is the Tribute page. The objective of this project is to build a tribute page for a subject of my choosing, fictional or real.
 
-
+-
 
 # FCC-Responsive-Web-Design---Project3
 

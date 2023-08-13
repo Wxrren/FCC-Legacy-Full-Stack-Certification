@@ -40,4 +40,20 @@ The final project for the certification is the Tribute page. The objective of th
 
 
 
+# FCC-Responsive-Web-Design---Project3
+
+## Project Overview
+
+The certification program consists of five courses that cover HTML and CSS fundamentals. Each course focuses on building a specific web application. The projects included in this repository are:
+
+1. Learn More About CSS Pseudo Selectors By Building A [Balance Sheet](https://github.com/Wxrren/FCC-Legacy-Full-Stack-Certification/blob/main/Responsive%20Web%20Design/Project%203/balanceSheet.html) ([CSS attached here](https://github.com/Wxrren/FCC-Legacy-Full-Stack-Certification/blob/main/Responsive%20Web%20Design/Project%203/balance_stylesheet.css))
+2. Learn Intermediate CSS by Building a [Picasso Painting](https://github.com/Wxrren/FCC-Legacy-Full-Stack-Certification/blob/main/Responsive%20Web%20Design/Project%203/picasso-painting.html) ([CSS attached here](https://github.com/Wxrren/FCC-Legacy-Full-Stack-Certification/blob/main/Responsive%20Web%20Design/Project%203/picasso-styles.css))
+3. Learn Responsive Web Design by Building a Piano
+5. Technical Documentation Page -  Core Certification Project 3
+
+## Certification Project: Technical Documentation Page
+
+The final project for the certification is the Technical Documentation Page. For this project, I had to build a technical documentation page to serve as instruction or reference for a topic.
+
+
 

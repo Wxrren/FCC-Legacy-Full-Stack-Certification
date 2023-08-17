@@ -1,15 +1,71 @@
 * {
   font-family: sans-serif;
-}
-
-img {
-  width: 70%;
+  font-size: 20px;
+  
 }
 
 ul > li {
-  padding-bottom: 5px;
+  padding-bottom: 10px;
 }
 
 ol > li {
   padding-bottom: 10px;
+}
+
+#introduction {
+max-width: 70%;
+display: inline-block;
+border-bottom: solid grey;
+}
+
+#First_Steps {
+max-width: 70%;
+display: inline-block;
+border-bottom: solid grey;
+}
+
+#Assembling_the_parts {
+max-width: 70%;
+display: inline-block;
+}
+
+#Tidying_cables_and_finish {
+max-width: 70%;
+display: inline-block;
+}
+
+#To_build_a_PC_you_will_need_a {
+max-width: 70%;
+display: inline-block;
+border-bottom: solid grey;
+}
+
+#Assembling_the_parts {
+  border-bottom: solid grey;
+}
+
+#Tidying_cables_and_finish {
+   border-bottom: solid grey;
+}
+
+#cpu {
+  padding-bottom: 10px;
+  border-bottom: 2px solid #ccc;
+}
+
+#CPU-cooler {
+  padding-bottom: 10px;
+  border-bottom: 2px solid #ccc;
+}
+
+#motherboard {
+  border-bottom: 2px solid #ccc;
+}
+
+#hardrive {
+  border-bottom: 2px solid #ccc;
+}
+
+#PSU {
+  border-bottom: 2px solid #ccc;
 }

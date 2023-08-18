@@ -1,11 +1,67 @@
+/*M/*Media rule for smaller screens*/
+@media screen and (min-width: 768px){
+  .container{
+    width: 100%;
+    font-size: 70%;
+  }
+}
 * {
   font-family: sans-serif;
   font-size: 20px;
-  
+}
+
+
+#navbar {
+    position: fixed;
+    min-width: 290px;
+    top: 10px;
+    left: 0px;
+    width: 300px;
+    height: 31%;
+    border-right: solid;
+    border-color: blue;
+    border-bottom: solid blue;
+}
+
+ nav > ul > li:hover {
+    background-color: lightblue;
+    color: #1b1b32;
+    cursor: pointer;
+    
+  }
+
+  nav > ul > li > a{
+    text-decoration: none;
+    color: blue
+  }
+
+  nav > ul > li {
+    display: flex;
+    position: relative;
+    margin-left: -40px;
+    padding-left: 5px;
+    padding-bottom: 40px;
+    border-top: solid;
+  }
+
+ nav > ul {
+    list-style-type: none;
+}
+
+  a{
+    text-decoration: none;
+    color: blue
+  }
+
+#main-doc {
+  position: absolute;
+  max-width: 70%;
+  left: 14%;
 }
 
 ul > li {
   padding-bottom: 10px;
+  
 }
 
 ol > li {
@@ -13,30 +69,14 @@ ol > li {
 }
 
 #introduction {
-max-width: 70%;
-display: inline-block;
 border-bottom: solid grey;
 }
 
 #First_Steps {
-max-width: 70%;
-display: inline-block;
 border-bottom: solid grey;
 }
 
-#Assembling_the_parts {
-max-width: 70%;
-display: inline-block;
-}
-
-#Tidying_cables_and_finish {
-max-width: 70%;
-display: inline-block;
-}
-
 #To_build_a_PC_you_will_need_a {
-max-width: 70%;
-display: inline-block;
 border-bottom: solid grey;
 }
 

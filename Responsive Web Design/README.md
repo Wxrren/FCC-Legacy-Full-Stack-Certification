@@ -56,4 +56,19 @@ The certification program consists of five courses that cover HTML and CSS funda
 The final project for the certification is the Technical Documentation Page. For this project, I had to build a technical documentation page to serve as instruction or reference for a topic.
 
 
+# FCC-Responsive-Web-Design---Project4
+
+## Project Overview
+
+The certification program consists of five courses that cover HTML and CSS fundamentals. Each course focuses on building a specific web application. The projects included in this repository are:
+
+1. Learn CSS Variables by Building a [City Skyline]
+2. Learn CSS Grid by Building a [Magazine]
+3. Personal Portfolio Webpage -  Core [Certification Project 4]
+
+## Certification Project: Personal Portfolio Webpage
+
+The final project for the certification is the  Personal Portfolio Webpage. For this project, I had to build my own personal portfolio page.
+
+
 

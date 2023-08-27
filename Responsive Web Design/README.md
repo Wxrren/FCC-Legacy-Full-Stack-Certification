@@ -62,7 +62,7 @@ The final project for the certification is the Technical Documentation Page. For
 
 The certification program consists of five courses that cover HTML and CSS fundamentals. Each course focuses on building a specific web application. The projects included in this repository are:
 
-1. Learn CSS Variables by Building a [City Skyline]
+1. Learn CSS Variables by Building a [City Skyline](https://github.com/Wxrren/FCC-Legacy-Full-Stack-Certification/blob/main/Responsive%20Web%20Design/Project%204/skyline.html) ([CSS attached here](https://github.com/Wxrren/FCC-Legacy-Full-Stack-Certification/blob/main/Responsive%20Web%20Design/Project%204/skylinestyles.css))
 2. Learn CSS Grid by Building a [Magazine]
 3. Personal Portfolio Webpage -  Core [Certification Project 4]
 

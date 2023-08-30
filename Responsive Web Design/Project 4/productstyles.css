@@ -1,0 +1,168 @@
+/*Media rule for smaller screens*/
+@media screen and (min-width: 768px){
+ 
+ 
+}
+
+
+* {
+  font-family: Helvetica;
+}
+
+html {
+  background-image: url(https://media.istockphoto.com/id/1295818791/vector/dark-green-technology-hexagonal-vector-background-abstract-green-bright-energy-flashes-under.jpg?s=612x612&w=0&k=20&c=2YhGioENPzOpqqsCKhlFUmhypK8NzZHzs6bcQ4WuspA=);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top left;
+    color: white;
+
+}
+
+#header-img {
+   width: 50%;
+    max-width: 300px;
+    height: 50px;
+    position: relative;
+    left: 0;
+}
+
+header {
+    width: 100%;
+    height: 60px;
+    background:linear-gradient(#228B22, #0a0a0a);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+  }
+
+ nav {
+    width: 50%;
+    max-width: 300px;
+    height: 50px;
+  }
+
+    nav > ul {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-inline-start: 0;
+    margin-block: 0;
+    height: 100%;
+    
+  }
+
+   nav > ul > li {
+    margin: 0 0.rem;
+    padding: 0.2rem;
+    display: block;
+    color: white;
+    font-size: min(5vw, 1.2em);
+  }
+
+   nav > ul > li:hover {
+    background-color: #008000;
+    color: #1b1b32;
+    cursor: pointer;
+  }
+  
+  li > a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  #specs {
+    padding-top: 1vh;
+    display: flex;
+    justify-content: center;
+    font-size: 1.8rem;
+  }
+
+  #product-info {
+    display: flex;
+    justify-content: center;
+    font-size: 1.8rem;
+  }
+
+.email { 
+    position: absolute;
+    top: 50;
+    text-align: center;
+    font-size: 1.8rem;
+}
+
+#sign {
+   position: absolute;
+    top: 50;
+    left: 0;
+    display: flex;
+    justify-content: flex-start;
+    
+ }
+
+#email {
+  display: block;
+  border-radius: 24px;
+  margin: 1px auto;
+  height: min-content;
+  min-height: 48px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 24px;
+  padding-right: 24px;
+  text-align: center;
+  font-size: 25px;
+  font-weight: 600;
+  font-family: sans-serif;
+  width: 20vw;
+}
+
+#submit {
+  display: block;
+  border-radius: 24px;
+  margin: 10px auto;
+  height: min-content;
+  min-height: 48px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 24px;
+  padding-right: 24px;
+  text-align: center;
+  font-size: 25px;
+  font-weight: 600;
+  font-family: sans-serif;
+  width: 10vw;
+  background:linear-gradient(#228B22, #0a0a0a);
+  color: white;
+}
+
+#submit:hover {
+  background: white;
+  color: #1b1b32;
+  cursor: pointer;
+}
+
+#video-review {
+    display: flex;
+    justify-content: center;
+    font-size: 1.8rem;
+}
+
+#video {
+    display: flex;
+    justify-content: center;
+    height: 40vh;
+}
+
+.video-container{
+  text-align: center;
+}
+
+.video-style {
+    display: inline-block;
+    padding: 5px;
+    height: 40vh;
+}

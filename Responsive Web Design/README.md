@@ -64,11 +64,11 @@ The certification program consists of five courses that cover HTML and CSS funda
 
 1. Learn CSS Variables by Building a [City Skyline](https://github.com/Wxrren/FCC-Legacy-Full-Stack-Certification/blob/main/Responsive%20Web%20Design/Project%204/skyline.html) ([CSS attached here](https://github.com/Wxrren/FCC-Legacy-Full-Stack-Certification/blob/main/Responsive%20Web%20Design/Project%204/skylinestyles.css))
 2. Learn CSS Grid by Building a [Magazine](https://github.com/Wxrren/FCC-Legacy-Full-Stack-Certification/blob/main/Responsive%20Web%20Design/Project%204/create-a-magazine.html) ([CSS attached here](https://github.com/Wxrren/FCC-Legacy-Full-Stack-Certification/blob/main/Responsive%20Web%20Design/Project%204/magazinestyles.css))
-3. Personal Portfolio Webpage -  Core [Certification Project 4]
+3. Product landing page -  Core [Certification Project 4](https://github.com/Wxrren/FCC-Legacy-Full-Stack-Certification/blob/main/Responsive%20Web%20Design/Project%204/productpage.html) ([CSS attached here](https://github.com/Wxrren/FCC-Legacy-Full-Stack-Certification/blob/main/Responsive%20Web%20Design/Project%204/productstyles.css))
 
-## Certification Project: Personal Portfolio Webpage
+## Certification Project: Product landing page
 
-The final project for the certification is the  Personal Portfolio Webpage. For this project, I had to build my own personal portfolio page.
+The final project for the certification is the Product landing page. For this project, I had to build a Product landing page which has a nav bar at the top, a register form and a video link.
 
 
 

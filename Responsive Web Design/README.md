@@ -70,5 +70,17 @@ The certification program consists of five courses that cover HTML and CSS funda
 
 The final project for the certification is the Product landing page. For this project, I had to build a Product landing page which has a nav bar at the top, a register form and a video link.
 
+# FCC-Responsive-Web-Design---Project5
 
+## Project Overview
+
+The certification program consists of five courses that cover HTML and CSS fundamentals. Each course focuses on building a specific web application. The projects included in this repository are:
+
+1. Learn CSS Animation by Building a [Ferris Wheel](https://github.com/Wxrren/FCC-Legacy-Full-Stack-Certification/blob/main/Responsive%20Web%20Design/Project%205/ferriswheel.html) ([CSS attached here](https://github.com/Wxrren/FCC-Legacy-Full-Stack-Certification/blob/main/Responsive%20Web%20Design/Project%205/wheelstyles.css))
+2. Learn CSS Transforms by Building a Penguin
+3. Personal Portfolio Webpage -  Core [Certification Project 5]
+
+## Certification Project: Personal Portfolio Webpage
+
+The final project for the certification is the Personal Portfolio Webpage. For this project, I had to build a Personal Portfolio Webpage to contain my work.
 

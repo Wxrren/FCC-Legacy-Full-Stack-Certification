@@ -77,7 +77,7 @@ The final project for the certification is the Product landing page. For this pr
 The certification program consists of five courses that cover HTML and CSS fundamentals. Each course focuses on building a specific web application. The projects included in this repository are:
 
 1. Learn CSS Animation by Building a [Ferris Wheel](https://github.com/Wxrren/FCC-Legacy-Full-Stack-Certification/blob/main/Responsive%20Web%20Design/Project%205/ferriswheel.html) ([CSS attached here](https://github.com/Wxrren/FCC-Legacy-Full-Stack-Certification/blob/main/Responsive%20Web%20Design/Project%205/wheelstyles.css))
-2. Learn CSS Transforms by [Building a Penguin](https://github.com/Wxrren/FCC-Legacy-Full-Stack-Certification/blob/main/Responsive%20Web%20Design/Project%205/Build%20a%20penguin.html) ([CSS attached here](https://github.com/Wxrren/FCC-Legacy-Full-Stack-Certification/blob/main/Responsive%20Web%20Design/Project%205/styles.css))
+2. Learn CSS Transforms by [Building a Penguin](https://github.com/Wxrren/FCC-Legacy-Full-Stack-Certification/blob/main/Responsive%20Web%20Design/Project%205/Build%20a%20penguin.html) ([CSS attached here](https://github.com/Wxrren/FCC-Legacy-Full-Stack-Certification/blob/main/Responsive%20Web%20Design/Project%205/penguin-styles.css))
 3. Personal Portfolio Webpage -  Core [Certification Project 5]
 
 ## Certification Project: Personal Portfolio Webpage
